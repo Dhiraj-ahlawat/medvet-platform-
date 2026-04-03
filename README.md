@@ -17,6 +17,14 @@ Welcome to **MedVet**, an integrated telemedicine platform designed to bridge th
 - **Integrated Pharmacy**: Order prescribed medicines and healthcare products directly through the platform.
 - **Role-Based Portals**: Dedicated, feature-rich dashboards crafted specifically for Patients, Doctors/Vets, and System Administrators.
 
+## 📁 Key Technical Architecture (Showcase)
+
+To understand how the core systems operate, we have extracted the main logic into easy-to-read representative code files. These files demonstrate the conceptual architecture of the platform:
+
+- **`key-features-code/AuthSystem.js`**: Demonstrates our role-based authentication system, securely directing Patients, Doctors, and Admins to their respective portals.
+- **`key-features-code/AppointmentBooking.js`**: Highlights the conflict-resolution logic for checking slot availability and booking unified telemedicine appointments.
+- **`key-features-code/PharmacyCart.js`**: Shows the e-commerce mathematical engine powering our integrated pharmacy, including item merging and tax calculations.
+
 ## 🛠 Tech Stack
 
 - **Framework**: Next.js (React)
@@ -54,7 +62,12 @@ Ensure you have Node.js and npm (or yarn/pnpm) installed on your machine.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are very welcome! If you're interested in improving the platform, feel free to open a pull request.
+dhiraj
+apurav
+shivansh
+mithun
+
+
 
 ## 📝 License
 
